@@ -11,3 +11,16 @@
 
 **Preparación:**
 Cocinar la carne adobada, servir en tortillas con piña, cebolla y cilantro.
+
+
+    ## Chilaquiles
+**Ingredientes:**
+- Totopos (tortillas fritas en trozos)
+- Salsa roja o verde
+- Crema
+- Queso fresco rallado
+- Cebolla en rodajas
+- Pollo desmechado (opcional)
+
+**Preparación:**
+Bañar los totopos con la salsa caliente y cubrir con crema, queso y cebolla.
