@@ -22,3 +22,16 @@ Mezclar los ingredientes, amasar y formar discos. Asar en sartén o parrilla.
 
 **Preparación:**
 Servir todo junto en un plato grande y abundante.
+
+
+## Ajiaco
+**Ingredientes:**
+- 3 pechugas de pollo
+- 3 tipos de papa (criolla, sabanera, pastusa)
+- 2 mazorcas de maíz
+- 3 litros de agua
+- 2 ramas de guascas
+- Alcaparras y crema de leche
+
+**Preparación:**
+Cocinar el pollo con las papas y las guascas. Servir con alcaparras y crema.
