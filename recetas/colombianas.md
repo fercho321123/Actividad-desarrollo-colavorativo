@@ -7,3 +7,18 @@
 
 **Preparación:**
 Mezclar los ingredientes, amasar y formar discos. Asar en sartén o parrilla.
+
+
+## Bandeja paisa
+**Ingredientes:**
+- 200 g de fríjoles rojos
+- 200 g de arroz blanco
+- 150 g de carne molida
+- 1 chorizo
+- 1 huevo frito
+- 1 chicharrón
+- Plátano maduro frito
+- Aguacate
+
+**Preparación:**
+Servir todo junto en un plato grande y abundante.
