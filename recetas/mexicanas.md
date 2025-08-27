@@ -24,3 +24,16 @@ Cocinar la carne adobada, servir en tortillas con piña, cebolla y cilantro.
 
 **Preparación:**
 Bañar los totopos con la salsa caliente y cubrir con crema, queso y cebolla.
+
+## Guacamole
+**Ingredientes:**
+- 2 aguacates maduros
+- 1 jitomate
+- ½ cebolla
+- 1 chile serrano
+- Cilantro
+- Jugo de limón
+- Sal
+
+**Preparación:**
+Machacar los aguacates y mezclar con los demás ingredientes picados finamente.
