@@ -1,9 +1,9 @@
 ## Arepa sencilla
 **Ingredientes:**
 - 2 tazas de harina de maíz precocida
-- 1 ½ tazas de agua tibia
+- 1 taza de agua tibia  # Cambiado
 - 1 pizca de sal
-- 1 cucharada de mantequilla
+- 2 cucharadas de mantequilla  # Cambiado
 
 **Preparación:**
 Mezclar los ingredientes, amasar y formar discos. Asar en sartén o parrilla.
@@ -28,8 +28,6 @@ Servir todo junto en un plato grande y abundante.
 **Ingredientes:**
 - 3 pechugas de pollo
 - 3 tipos de papa (criolla, sabanera, pastusa)
-- 2 mazorcas de maíz
-- 3 litros de agua
 - 2 ramas de guascas
 - Alcaparras y crema de leche
 
