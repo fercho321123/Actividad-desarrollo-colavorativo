@@ -4,7 +4,6 @@
 - 1 taza de agua tibia  # Cambiado
 - 1 pizca de sal
 - 2 cucharadas de mantequilla  # Cambiado
-
 **Preparación:**
 Mezclar los ingredientes, amasar y formar discos. Asar en sartén o parrilla.
 
